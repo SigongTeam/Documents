@@ -1,17 +1,17 @@
 # Documents
 
-#Sigong Team's Document directory
+# Sigong Team's Document directory
 
-##Abstract
+## Abstract
 
-###Thing what in this
+### Thing what in this
 
 * Team's Logo
 * Program Logo
 * Team's Abstract
 * Team's PowerPoint
 
-###Who are we
+### Who are we
 
 * Chalk
 * Nenu
