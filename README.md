@@ -11,10 +11,10 @@
 * Team's Abstract
 * Team's PowerPoint
 
-### Who are we
+### Who we are
 
 * Chalk
-* Nenu
+* Khinenw
 * onebone
-* alphaca
+* alpaca
 * ppj
